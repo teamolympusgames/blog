@@ -1,0 +1,29 @@
+---
+author: wanthonyalford
+comments: true
+date: 2013-10-08 16:45:16+00:00
+layout: post
+slug: success
+title: Success
+wordpress_id: 33
+categories:
+- Reading
+---
+
+Of course, when I was reading the Toyota book, I couldn't help but think of the Dilbert comic strip and its remorseless skewering of management fads. Lo, here is Dilbert artist [Scott Adams talking about success,](http://www.businessinsider.com/dilbert-creator-scott-adams-says-passion-is-bs-2013-10) and how "passion is BS."
+
+Of course everybody wants to know the Secret of Success. Adams thinks that a lot of people credit "passion" because it's "democratic." Anybody can have passion; not everybody can be smart, or lucky. Which makes sense; how do you sell a book that says the Secret to Success is: be born lucky!
+
+Of course, as [N. N. Taleb points out](http://edge.org/response-detail/11174), everybody wants to know how to get rich; nobody wants to know "how not to go bust." Adams seems very Taleb-like in a way:
+
+"In a casino, if you gamble long enough, you’re certainly going to lose. But in the real world, where the only thing you’re gambling is, say, your time or your embarrassment, then the more stuff you do, the more you give luck a chance to find you."
+
+Also (on why physical fitness is important):
+
+"My view is it’s not passion you want; it’s energy. It doesn’t matter what you’re doing, you need more energy to do it better. It’s your competitive edge, and it’s available to all. That stuff will protect you against your failures, as well as give you energy to try more things. So if the goal is to try more things until luck can find you, the place to start is your fitness."
+
+And as I was planning to write this post earlier today, I ran across this G. K. Chesterton piece on ["The Fallacy of Success"](http://mustapha.svbtle.com/tfs) which was written in 1909! So clearly we're dealing with a persistent phenomenon:
+
+"There has appeared in our time a particular class of books and articles, which I sincerely and solemnly think may be called the silliest ever known among men. They are much more wild than the wildest romances of chivalry and much more dull than the dullest religious tract. Moreover, the romances of chivalry were at least about chivalry; the religious tracts are about religion. But these things are about nothing; they are about what is called Success."
+
+There's nothing new under the sun...which Chesterton no doubt knew quite well.

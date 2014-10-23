@@ -1,0 +1,53 @@
+---
+author: wanthonyalford
+comments: true
+date: 2014-06-15 19:01:37+00:00
+layout: post
+slug: bass-tips
+title: 5 Bass Tips For Beginners
+wordpress_id: 98
+categories:
+- Music
+---
+
+The last post got me thinking about what I've learned about playing bass. Now, of course, I'm not a real rock-star; I just play one on the weekends. But I've been playing, off and on, for more than 20 years, and I think I've picked up a few simple tips that can help beginners. I've listed them in order of "bang for the buck."
+
+
+### 1. Be the Kick Drum
+
+
+You and the drummer are a team. I usually stand as close as I can to the drummer and I watch him like a hawk. I watch the high-hat, I watch the snare, but most important: I watch his knee and I hit the root note of the current chord at the same time as the bass drum. I find this to be THE most effective tip (in an 80/20 sense) for establishing a solid groove. It's not quite the same as Bootsy's advice to "[hit on the one](https://www.youtube.com/watch?v=IHE6hZU72A4)," but it's close.
+
+
+### 2. The Octave Is Your Friend
+
+
+So you're hitting the root note in sync with the bass drum. This is cool, but then there's those snare drum hits. What do you do there? Hit the octave! This very effective, and quite easy to do: just go up two strings, and up two frets. For example, if you're playing in G, you're hitting the 3rd fret of the E-string in sync with the bass drum. Now, with the snare, hit the 5th fret on the D-string. I got this technique from a video my uncle gave me when I got the bass: [Rudy Sarzo's Bass Master Class](https://www.youtube.com/watch?v=IkCtbwMCeAA).
+
+
+### 3. Learn Scales
+
+
+The root and octave tips will go a long way, but eventually you need some other notes. That's when a scale comes in handy. Here's the scale for G major:
+
+    
+    G|-----
+    D|--2-45
+    A|--23-5
+    E|---3-5
+    
+
+
+The key takeaway, though, is that you need to be able to mentally "slide" this scale anywhere on the neck. What I do is find the root note. Then I know the second is up two frets on the same string. The third is one string up, and one fret "back," and so forth. In other words, you abstract away what the chord is, and just learn the intervals. Scales are great for transitioning between chords. Again, if we're in G, and the next chord is D, then you can "walk" up the scale from G to D, through A, B, and C. This skill came in handy in another way, back in the pre-internet tab days, when I was trying to learn an Iron Maiden song. I worked on the assumption that the song was in A-minor, and that helped me figure out some of Steve Harris's lines.
+
+
+### 4. Learn to "Read" Guitar Chords
+
+
+Ok, you and the drummer are a team, and while [sometimes that's enough](https://www.youtube.com/watch?v=3cf50q4xpts), usually you're going to want to play with at least a guitarist. What if you don't know any songs in common? If  watch the guitarist's hands, you can actually figure out what chord he's playing, and then you can play along. I'll admit: this isn't a newbie skill. It takes some practice. The best way, of course, is to get a real live guitarist and jam with him. I got to learn this the hard way: by playing live, without having learned the songs. Stressful, but sometimes that helps the learning process. The corollary to this is to learn some [chord progressions](http://en.wikipedia.org/wiki/Chord_progression). In fact, if you just learn the [basic blues progression](http://en.wikipedia.org/wiki/I%E2%80%93IV%E2%80%93V%E2%80%93I), you can play all night at any open mic.
+
+
+### 5. Get Out There and Rock
+
+
+The most important thing you can do, of course, is PLAY. Start a band, learn some songs, have a party. Yes, play in the garage if you've got nowhere else! And never stop: eventually you'll have 20 years under your belt, and you can pass along what you've learned.
