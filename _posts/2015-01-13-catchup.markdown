@@ -13,15 +13,20 @@ First of all: it's cheap. Of course, WordPress is free, but if you want to host 
 Cons
 ----
 First, it's a bit more work to write and publish a post. With WordPress, you just open a browser and start typing in the WYSIWYG editor. With Jekyll, on the other hand, you have to:
+
 1. Create a new file using the naming convention
 2. Write using markdown and the template language (e.g., for linking to other posts)
 3. Generate the static html using Jekyll
-4. Push the new/changed files to S3
+4. Check the new html using browser
+5. Commit markdown to git
+6. Push the new/changed files to S3
 
 So whereas with WordPress you could literally blog from any web browser, now you need a toolchain. What I realized then was: this is like software development! The process is the same:
 
-1. Code: Write Post
-2. Compile: Generate HTML
-3. Deploy: Push to S3
+1. Code: write post
+2. Compile: generate HTML
+3. Test: view in browser
+4. Commit: commit to git
+5. Deploy: push to S3
 
 So basically I need to apply some software dev techniques here to make things smoother.
