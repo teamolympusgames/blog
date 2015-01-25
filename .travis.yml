@@ -1,8 +1,8 @@
 language: ruby
 rvm:
-  - 1.9.3
+- 1.9.3
 script: bundle exec jekyll build
 install: bundle install
-after_success: bundle exec s3_website push 
-secure: "S+Dh7FStKhARNzQCXog9Bp3hzGbfz4jstaH0h7L0hz80bV/vhFXRphCYrqCTaD89yJLwxC13kS0bxgXzEPo85t2fOtfH6lMAKaJx3I97JkR3zt1gKcBAFTnxCIEwco5Q8CUky2WxWve7lI6Vng/gIHhc2gi76KspY0Llx9J9les="
-secure: "P0HHaU1BAu2YWNi16kcAEX00clWrxiAza147pRcfmDyMaImbCYli4zpzxlwyAPxRMkRtblA7ec7w0Yt7bzTYHoNsAsFmcIDDD/rmuWXdAHbPvjMxFEx2/sSyYGEhGVWiWqZmFoBcbqz9bKTHKvM+HKUlbvehaPuWDnBJKzMlpmE="
+after_success: bundle exec s3_website push
+dd:
+  secure: czGcpOUUwx08Fwv7+UDcgaNoIL74IlrNhEqeQlgl9i2+h3xZYmUKKsYNHl3SLGbcIlQtq7mjcvqAYhoj8sEOJFXK/BLR5GN1CWVwVyCg5RDKjXF9jX6o3iZz+uJtN1FfmIpdzbvyl6Rj7soVDcgFURs8/SR0cY7AyogjZU594Pg=
