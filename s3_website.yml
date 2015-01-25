@@ -1,5 +1,5 @@
-s3_id: AKIAJFWHTFXWFP7HIJDA
-s3_secret: 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
+s3_id: <%= ENV['S3_ACCESS_KEY_ID'] %>
+s3_secret: <%= ENV['S3_SECRET_KEY'] %>
 s3_bucket: www.teamolympusgames.com
 
 # Below are examples of all the available configurations.
