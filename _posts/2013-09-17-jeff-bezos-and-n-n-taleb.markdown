@@ -1,5 +1,5 @@
 ---
-author: wanthonyalford
+
 comments: true
 date: 2013-09-17 18:12:04+00:00
 layout: post
