@@ -4,3 +4,6 @@ rvm:
 script: bundle exec jekyll build
 install: bundle install
 after_success: bundle exec s3_website push --headless
+secure: "u9owzKhboPe0S1HurOWj49Y+szPPMbgzvJZ+3259RObKZzh6CDkrWU0veSKnu4qEDNDYA9D81arD0CFX1+ga3tOgQuG88dTb/kEa9WK+LIpjh78xhUswxo4XhDMReKaPgKEV/Viheextitl1fJeesNJuIm2xqzBQRYpMLE5ykP8="
+secure: "k32/VWPgiU7DLZ+gmXqXyexy6cfcDyQGfZOPBdCNPAGLTsMbmyeJVi63N/Kk3U1VTjPAArBhxTw16U5f47UVJtRF6fqIFSN0Sm45oJKpG0N6LJ8XVX5UECd6yvVs+4HR4EDw12LyS7VsT+wqMOh5VGHCJT8dGgz8CQ4uvEPXi9o="
+
