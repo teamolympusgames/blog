@@ -7,6 +7,7 @@ categories:
 I think I've spent more time than not in "three piece" bands: simply drums, bass, and guitar (and vocals, of course). While this is a perfectly serviceable rock configuration that has worked well for lots of great bands (Zep, ZZ Top, Motley Crue...), it always feels like you lose some punch during the guitar solo.
 
 I've found the perfect solution: [the Fishman Fission Bass Powerchord FX Pedal](https://www.youtube.com/watch?v=I2XKZNMR2Pc). This delightful little box takes your bass signal adds an octave above, plus:
+
 * the fourth below (i.e, the fifth above your bass note)
 * OR the fifth above the octave
 * OR both of those
