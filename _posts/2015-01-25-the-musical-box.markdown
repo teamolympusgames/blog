@@ -6,7 +6,7 @@ categories:
 ---
 I think I've spent more time than not in "three piece" bands: simply drums, bass, and guitar (and vocals, of course). While this is a perfectly serviceable rock configuration that has worked well for lots of great bands (Zep, ZZ Top, Motley Crue...), it always feels like you lose some punch during the guitar solo.
 
-I've found the perfect solution: [the Fishman Fission Bass Powerchord FX Pedal](https://www.youtube.com/watch?v=I2XKZNMR2Pc). This delightful little box takes your bass signal adds an octave above, plus:
+I've found the perfect solution: [the Fishman Fission Bass Powerchord FX Pedal](http://www.amazon.com/gp/product/B005INZV3U/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B005INZV3U&linkCode=as2&tag=teaolygam-20&linkId=VAUOBVLFXJUW2PGE). This delightful little box takes your bass signal adds an octave above, plus:
 
 * the fourth below (i.e, the fifth above your bass note)
 * OR the fifth above the octave
@@ -22,4 +22,4 @@ I'm too lazy to draw a picture, so imagine this: you're the bass, and you're pla
 * both the open E and the 2nd fret on D
 * 2nd fret on D plus 2nd fret on G
 
-As you can hear on the video, it sounds pretty passable. In fact, it's so cool my biggest concern has been: how do I resist the temptation of OVER using it?
+As you can hear on [this video](https://www.youtube.com/watch?v=I2XKZNMR2Pc), it sounds pretty passable. In fact, it's so cool my biggest concern has been: how do I resist the temptation of OVER using it?
